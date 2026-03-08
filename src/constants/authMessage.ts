@@ -1,0 +1,1 @@
+export const authFailedMessage = { status: 'failed', message: 'Authentication failed.' }
